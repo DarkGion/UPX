@@ -21,6 +21,7 @@ public class Contato {
 
     public void setNome(String nome) {
         this.nome = nome;
+        System.out.println("Meu nome é pedro heheheh");
     }
 
     public String getEmail() {
